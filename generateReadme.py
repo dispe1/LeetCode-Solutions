@@ -8,11 +8,9 @@ def getFoldersNames(path):
             folders.append(item)
     return folders
 
-
 def getFilesNames(path):
     files = os.listdir(path)
     return files
-
 
 def getProblemURLandScore(path):
     inFile = open(path, 'r')
@@ -20,7 +18,6 @@ def getProblemURLandScore(path):
     difficulty = inFile.readline().split()[-1]
     inFile.close()
     return url, difficulty
-
 
 def getTotalNumberOfProblems():
     totalNumber = 0

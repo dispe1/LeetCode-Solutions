@@ -1,5 +1,5 @@
 # Solutions to LeetCode problems
-This repository contains 1 solutions to LeetCode problems with Kotlin.
+This repository contains 2 solutions to LeetCode problems with Kotlin.
 
 If it was helpful please press a star.
 
@@ -21,3 +21,5 @@ If it was helpful please press a star.
     09. Greedy
     10. Two Pointers
     11. Breadth-first Search
+    18. Linked List
+        - Add Two Number | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/dispe1/LeetCode-Solutions/blob/master/Algorithms/18.%20Linked%20List/01.%20Add%20Two%20Number.kt) | Difficulty: Medium
