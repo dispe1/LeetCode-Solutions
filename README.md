@@ -1,5 +1,5 @@
 # Solutions to LeetCode problems
-This repository contains 2 solutions to LeetCode problems with Kotlin.
+This repository contains 3 solutions to LeetCode problems with Kotlin.
 
 If it was helpful please press a star.
 
@@ -16,6 +16,7 @@ If it was helpful please press a star.
     05. Tree
     06. Hash Table
         - Two Sum | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/dispe1/LeetCode-Solutions/blob/master/Algorithms/06.%20Hash%20Table/001.%20Two%20Sum.kt) | Difficulty: Easy
+        - Longest Substring Without Repeating Characters | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/dispe1/LeetCode-Solutions/blob/master/Algorithms/06.%20Hash%20Table/02.%20Longest%20Substring%20Without%20Repeating%20Characters.kt) | Difficulty: Medium
     07. Depth-first Search
     08. Binary Search
     09. Greedy
